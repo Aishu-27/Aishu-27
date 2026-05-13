@@ -56,11 +56,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishu-27&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aishu-27&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aishu-27&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Aishu-27&theme=tokyonight" />
 </p>
 ---
 
